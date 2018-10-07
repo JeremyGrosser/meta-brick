@@ -1,0 +1,28 @@
+This README file contains information on the contents of the meta-brick layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+  URI: git://git.yoctoproject.org/meta
+  branch: sumo
+
+Patches
+=======
+
+Please submit any patches against the meta-brick layer to the github
+repository at https://github.com/JeremyGrosser/meta-brick
+
+Maintainer: Jeremy Grosser <jeremy@synack.me>
+
+Table of Contents
+=================
+
+  I. Adding the meta-brick layer to your build
+
+
+I. Adding the meta-brick layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-brick'
