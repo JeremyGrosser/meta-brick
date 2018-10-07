@@ -8,6 +8,9 @@ Dependencies
   URI: git://git.yoctoproject.org/meta
   branch: sumo
 
+  URI: git://git.openembedded.org/meta-openembedded/meta-oe
+  branch: sumo
+
 Patches
 =======
 
