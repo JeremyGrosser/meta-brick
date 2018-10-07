@@ -5,6 +5,6 @@ GLIBC_GENERATE_LOCALES = "en_US.UTF-8"
 
 IMAGE_FEATURES += "package-management"
 
-IMAGE_INSTALL_append = "libgpiod"
+IMAGE_INSTALL_append = "python3 libgpiod"
 
 inherit core-image
