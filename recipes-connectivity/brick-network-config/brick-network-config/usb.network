@@ -1,0 +1,10 @@
+[Match]
+Name=usb*
+
+[Network]
+Address=10.2.2.0/24
+DHCPServer=yes
+
+[DHCPServer]
+EmitDNS=no
+EmitRouter=no
